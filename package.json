@@ -1,0 +1,27 @@
+{
+	"name": "extend",
+	"description": "Aimee的extend模块，用于扩展",
+	"main": "extend.js",
+	"version": "1.0.0",
+	"scripts": {
+		"test": "uz -v"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gavinning/aimee-extend.git"
+	},
+	"keywords": [
+		"aimee-extend",
+		"aimee",
+		"uz"
+	],
+	"author": "gavinning",
+	"license": "GPL",
+	"bugs": {
+		"url": "https://github.com/gavinning/aimee-extend/issues"
+	},
+	"homepage": "https://github.com/gavinning/aimee-extend",
+	"dependencies": {
+		"aimee-pm": "*"
+	}
+}
