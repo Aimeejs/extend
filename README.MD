@@ -1,9 +1,16 @@
-# Aimee-extend
+# extend
 
-Aimee-extend Aimee的扩展模块，用于对象扩展提供底层服务，依赖aimee-is，代码来自jQuery.extend@2.0.3，使用方法可参照jQuery.extend
+Aimee框架的扩展模块，用于对象扩展提供底层服务，依赖is，核心代码来自jQuery.extend@2.0.3，使用方法可参照jQuery.extend
 
-[Aimee-is](https://github.com/gavinning/aimee-is)
+[is](https://github.com/Aimeejs/is)
 
+#### Install  
+```
+aimee i extend
+```
+
+
+#### Example
 ```
 // 直接使用
 var extend = require('extend');

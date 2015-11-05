@@ -1,10 +1,10 @@
 /**
- * Aimee-extend
+ * Extend for Aimeejs
  * From jQuery.extend@2.0.3
- * Homepage https://github.com/gavinning/aimee-extend
+ * Homepage https://github.com/Aimeejs/extend
  */
 
-var is = require('aimee-is');
+var is = require('is');
 
 function extend() {
     var options, name, src, copy, copyIsArray, clone,
